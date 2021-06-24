@@ -1,5 +1,5 @@
 @charset "UTF-8";
-{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -121,11 +121,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('Instagram/appstore.png');
+    background-image: url('./img/apple-button.png');
 }
 
 .app-download:nth-child(2) {
-    background-image: url('Instagram/googleplay-button.png');
+    background-image: url('./img/googleplay-button.png');
 }
 
 /* media queries */
