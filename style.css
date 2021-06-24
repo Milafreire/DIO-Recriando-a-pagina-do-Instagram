@@ -1,3 +1,4 @@
+@charset "UTF-8";
 {
     paddind: 0;
     margin: o;
@@ -10,7 +11,7 @@
 body{
     width:100%;
     min-height:100vh;
-    backgroung-color: rgb(243,243,243);
+    backgroung-color: rgb(235, 160, 225);
     margin:0;
     padding 0;
     display: flex;
